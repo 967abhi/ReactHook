@@ -25,7 +25,7 @@ export class ClassCounter extends Component {
       <button onClick={this.increment}> count{this.state.count}</button>
       </div>
     )
-  }
+  } 
 }
 
 export default ClassCounter;
